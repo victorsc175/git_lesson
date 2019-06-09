@@ -2,4 +2,4 @@
 GB lesson
 New info
 
-Home Work from Agaltsov Aleksey add a file "second.sh 
+Home Work from Stef_Nik add a file stef_nik.txt
